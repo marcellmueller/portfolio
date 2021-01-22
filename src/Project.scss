@@ -24,6 +24,14 @@
   }
 }
 
+.project-links {
+  color: black;
+}
+
+.project-demo:hover,
+.project-github:hover {
+  color: grey;
+}
 .project-card:hover {
   transform: scale(1.02);
 }

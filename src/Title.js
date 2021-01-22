@@ -4,6 +4,9 @@ export default function Title(props) {
   return (
     <div className="title-div">
       <h1 className="title-name">MARCEL MUELLER</h1>
+      <br />
+      <br /> <br />
+      <br />
       <h2 className="title-description">FULL STACK DEVELOPER</h2>
       <h2 className="title-tech">TECHNOLOGY</h2>
       <h3>
