@@ -1,5 +1,8 @@
 import './Main.scss';
 import Project from './Project';
+import RetroImg from './img/projects/retropc.png';
+import BuyThingsImg from './img/projects/buythings.png';
+import RpgImg from './img/projects/jsrpg.png';
 
 export default function Main(props) {
   const projects = [
@@ -7,7 +10,7 @@ export default function Main(props) {
       name: 'Buy Things Sell Things',
       description:
         'Single page application made with NodeJS / Express / PostgreSQL',
-      image: '/img/projects/buythings.png',
+      image: `${BuyThingsImg}`,
       demo: 'https://buythingssellthings.herokuapp.com/',
       github: 'https://github.com/CamBrown101/mid-term-project',
     },
@@ -15,7 +18,7 @@ export default function Main(props) {
       name: 'Retro PC',
       description:
         'Retro styled web based computer system built with React / NodeJS / Express / PostgreSQL',
-      image: '/img/projects/retropc.png',
+      image: `${RetroImg}`,
       demo: 'https://marcellmueller.github.io/JS-RPG/',
       github: 'https://github.com/marcellmueller/JS-RPG',
     },
@@ -23,7 +26,7 @@ export default function Main(props) {
       name: 'JS RPG',
       description:
         'One of my early projects I will always have appreciation for. Retro RPG made with Javascript',
-      image: '/img/projects/jsrpg.png',
+      image: `${RpgImg}`,
       demo: 'https://marcellmueller.github.io/JS-RPG/',
       github: 'https://github.com/marcellmueller/JS-RPG',
     },
@@ -31,7 +34,7 @@ export default function Main(props) {
       name: 'Retro PC',
       description:
         'Retro styled web based computer system built with React / NodeJS / Express / PostgreSQL',
-      image: '/img/projects/buythings.png',
+      image: `${RetroImg}`,
       demo: 'https://marcellmueller.github.io/JS-RPG/',
       github: 'https://github.com/marcellmueller/JS-RPG',
     },
