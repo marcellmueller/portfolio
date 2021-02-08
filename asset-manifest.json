@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.1d42d58e.chunk.css",
-    "main.js": "/portfolio/static/js/main.c822fcb0.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.c822fcb0.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.fc23e620.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.fc23e620.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.8fed2963.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.8fed2963.js.map",
     "static/js/2.e071bb75.chunk.js": "/portfolio/static/js/2.e071bb75.chunk.js",
@@ -10,12 +10,15 @@
     "index.html": "/portfolio/index.html",
     "static/css/main.1d42d58e.chunk.css.map": "/portfolio/static/css/main.1d42d58e.chunk.css.map",
     "static/js/2.e071bb75.chunk.js.LICENSE.txt": "/portfolio/static/js/2.e071bb75.chunk.js.LICENSE.txt",
-    "static/media/App.scss": "/portfolio/static/media/me.b3b7b6ed.jpg"
+    "static/media/buythings.78fb10ad.png": "/portfolio/static/media/buythings.78fb10ad.png",
+    "static/media/jsrpg.f7f4a598.png": "/portfolio/static/media/jsrpg.f7f4a598.png",
+    "static/media/App.scss": "/portfolio/static/media/me.b3b7b6ed.jpg",
+    "static/media/retropc.1f150fc7.png": "/portfolio/static/media/retropc.1f150fc7.png"
   },
   "entrypoints": [
     "static/js/runtime-main.8fed2963.js",
     "static/js/2.e071bb75.chunk.js",
     "static/css/main.1d42d58e.chunk.css",
-    "static/js/main.c822fcb0.chunk.js"
+    "static/js/main.fc23e620.chunk.js"
   ]
 }
